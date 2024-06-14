@@ -20,7 +20,7 @@
     justify-content: center;
     }
     .cabecalho-imagem{
-    width: 5%;
+    width: 15%;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -83,7 +83,7 @@
     }
     .logo_rodape{
     height: 40px;
-    padding: 12px 0;
+    padding: 16px 0;
     
     }
     

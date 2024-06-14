@@ -26,10 +26,10 @@
     align-items: center;
     }
     .titulo_site{
-    padding: 25px;
+    padding: 50px;
     text-align: center;
     width: 50%;
-    font: 15px;
+    font: 30px;
     }
     .sociais{
     display: flex;

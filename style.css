@@ -7,7 +7,7 @@
     font-family: "Poppins", sans-serif;
     }
     header{
-    background-color: #424e61;
+    background-color: #441769;
     color: white;
     width: 100%;
     padding: 20px;
@@ -39,10 +39,12 @@
     }
     .banner1{
     display: flex;
-    justify-content: center;}
+    justify-content: center;
+    }
     .estudante_titulo{
     padding: 50px;
-    text-align: center;}
+    text-align: center;
+    }
     .estudante-nome{
     text-align: center;
     }
@@ -67,7 +69,7 @@
     justify-content: space-around;
     }
     .escola{
-    background-image: linear-gradient(#40A2E3,#7FC2EF);
+    background-image: linear-gradient(#802ac7,#c67fef);
     color: white;
     display: flex;
     justify-content:center;
